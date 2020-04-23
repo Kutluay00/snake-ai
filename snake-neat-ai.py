@@ -8,7 +8,7 @@ board_y = 0     # length of the board vertically
 
 
 def parse(string_array):
-    return True
+    return False
 
 
 def move_right():
